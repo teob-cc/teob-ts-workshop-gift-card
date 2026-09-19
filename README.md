@@ -12,7 +12,7 @@ Pure functions all the way: `decide()` for commands, `evolve()` for read models,
 ## Setup
 
 ```bash
-git clone https://github.com/lambda-house/teob-ts-workshop-gift-card.git
+git clone https://github.com/teob-cc/teob-ts-workshop-gift-card.git
 cd teob-ts-workshop-gift-card
 npm install
 ```

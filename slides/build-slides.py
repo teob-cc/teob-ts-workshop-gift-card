@@ -1669,7 +1669,7 @@ add_text(slide, M_LEFT, Emu(1000000), CONTENT_W, Emu(800000),
 add_accent_line(slide, Emu(1800000), color=COLOR_BLUE)
 
 cta_items = [
-    ("Clone the repo", "github.com/lambda-house/teob-ts-workshop-gift-card", COLOR_GREEN),
+    ("Clone the repo", "github.com/teob-cc/teob-ts-workshop-gift-card", COLOR_GREEN),
     ("Try at home", "Add Freeze/Unfreeze commands, transaction history in the view", COLOR_BLUE),
     ("Scaffold your own", "npx teob new aggregate — working code in seconds", COLOR_BLUE),
     ("Watch the recording", "Solution walkthroughs with chapter markers", COLOR_ORANGE),
